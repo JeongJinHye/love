@@ -1,0 +1,45 @@
+.main_img {
+  width: 60%;
+  margin: auto;
+  display: block;
+}
+.main_pg {
+  position: relative;
+}
+#main_text {
+  position: absolute;
+  top: 35%;
+  left: 45%;
+  font-size: 100px;
+  color: black;
+  font-family: "Gowun Batang", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.sub_img {
+  width: 60%;
+  margin: auto;
+  display: block;
+  width: 10vh;
+}
+.sub_img1 {
+  width: 60%;
+  margin: auto;
+  display: block;
+  width: 50vh;
+}
+.sub_text {
+  text-align: center;
+  font-size: 2vh;
+  font-family: "Gowun Batang", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.gowun-batang-regular {
+  font-family: "Gowun Batang", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.empty {
+  margin-top: 50px;
+}
